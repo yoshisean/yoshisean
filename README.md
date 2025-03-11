@@ -1,7 +1,8 @@
 # Hey, I'm Sean 👋
 
-I am a highly motivated full-stack software developer and undergraduate student at Georgia Tech. I have a passion for AI/ML model development, web design, and full-stack development. I'm always up for a new challenge and enjoy working both individually and in teams.  
-I also have a website here: [Portfolio](https://www.yoshisean.com/)
+I am a highly motivated software engineer and undergraduate student at Georgia Tech. I have a passion for AI/ML model development, web design, and full-stack development. 
+I'm always up for a new challenge and enjoy working both individually and in teams.  
+I also have a website here, check it out! [Portfolio](https://www.yoshisean.com/)
 
 ---
 
