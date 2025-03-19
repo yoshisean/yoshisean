@@ -1,6 +1,6 @@
 # Hey, I'm Sean 👋
 
-I am a software engineer and undergraduate CS student at Georgia Tech. I'm studying AI/ML model development and Theory in school, but I'm interested in web design and full-stack development during my free-time. If you're interested in my work, you can check out my devleoper portfolio here: [Link](https://www.yoshisean.com/)
+I am a software engineer and undergraduate CS student at Georgia Tech. I'm studying AI/ML model development and Theory, but I'm interested in web design and full-stack development during my free-time. If you're interested in my work, you can check out my devleoper portfolio here: [Link](https://www.yoshisean.com/)
 
 ---
 
