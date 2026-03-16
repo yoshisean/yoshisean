@@ -1,4 +1,4 @@
-Software engineer and graduate CS student at Georgia Tech. I specialize in Artificial Intelligence, and incorporate my work with full stack development. If you're interested in my work, you can check out my [Developer Portfolio](https://www.yoshisean.com/)
+Graduate CS student at Georgia Tech. I specialize in Artificial Intelligence, and incorporate my work with full stack development. If you're interested in my work, you can check out my [Developer Portfolio](https://www.yoshisean.com/)
 
 ---
 
