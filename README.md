@@ -1,6 +1,4 @@
-# Hey, I'm Sean 👋
-
-I am a software engineer and graduate CS student at Georgia Tech. I specialize in Artificial Intelligence, but I'm interested in web design and full-stack development during my free-time. If you're interested in my work, you can check out my devleoper portfolio here: [Link](https://www.yoshisean.com/)
+Software engineer and graduate CS student at Georgia Tech. I specialize in Artificial Intelligence, and incorporate my work with full stack development. If you're interested in my work, you can check out my devleoper portfolio here: [Link](https://www.yoshisean.com/)
 
 ---
 
@@ -17,10 +15,3 @@ I am a software engineer and graduate CS student at Georgia Tech. I specialize i
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" height="60" width="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="75" height="75" />&nbsp;
 </div>
-
----
-
-### My Stats:
-<a href="https://github.com/yoshisean">
-  <img align="center" src="https://github-readme-stats-personal-two.vercel.app/api?username=yoshisean&show_icons=true&line_height=27&count_private=true&theme=radical" alt="My GitHub Stats" />
-</a>
