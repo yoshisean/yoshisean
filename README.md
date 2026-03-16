@@ -21,9 +21,6 @@ I am a software engineer and graduate CS student at Georgia Tech. I specialize i
 ---
 
 ### My Stats:
-<a href="https://github.com/yoshisean?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshisean&show_icons=true&theme=radical&langs_count=3" />
-</a>
 <a href="https://github.com/yoshisean">
   <img align="center" src="https://github-readme-stats-personal-two.vercel.app/api?username=yoshisean&show_icons=true&line_height=27&count_private=true&theme=radical" alt="My GitHub Stats" />
 </a>
